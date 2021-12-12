@@ -1,0 +1,35 @@
+
+body {
+	background-color: #ffcbdb;: 
+}
+a:link{
+    color: #FFFFFF;
+    font-family: American Typewriter;
+    text-decoration: none;
+    font-style: initial;
+    }
+a:visited{
+    color: #ffcbdb;
+    }
+a:hover{
+    text-decoration: underline;
+     background-color: #ff69b4;
+}
+h1{
+    color: #ff69b4;
+   font-family: American Typewriter – serif;
+   font-style: initial;
+}
+
+h2{
+    color: #ff69b4;
+   font-style: italic;
+   font-family: courier;
+   text-decoration: underline;
+}
+h3{
+    font-family: Courier;
+}
+img{
+    border: 15px solid #ffcbdb;
+}
